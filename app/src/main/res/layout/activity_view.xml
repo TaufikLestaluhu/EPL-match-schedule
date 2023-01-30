@@ -22,8 +22,8 @@
             android:padding="16dp">
             <ImageView
                 android:id="@+id/clublogo_1"
-                android:layout_width="250px"
-                android:layout_height="250px"
+                android:layout_width="300px"
+                android:layout_height="300px"
                 android:background="@color/white">
             </ImageView>
             <LinearLayout
@@ -53,8 +53,8 @@
             </LinearLayout>
             <ImageView
                 android:id="@+id/clublogo_2"
-                android:layout_width="250px"
-                android:layout_height="250px"
+                android:layout_width="300px"
+                android:layout_height="300px"
                 android:background="@color/white">
             </ImageView>
         </LinearLayout>
